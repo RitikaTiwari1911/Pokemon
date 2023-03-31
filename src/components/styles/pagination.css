@@ -1,0 +1,22 @@
+.pagination{
+    display: flex;
+    justify-content: center;
+
+}
+.page-item{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding:4px
+}
+a:hover{
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding:4px;
+    border-radius: 1px;
+    background-color:#EFF1DB;
+}

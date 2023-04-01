@@ -93,7 +93,7 @@ export const PokemonLazyLoading = () => {
                     <span className="pokemon-height">
                       {pokemon.height / 10} m
                     </span>
-                    , Weight:{" "}
+                    Weight:{" "}
                     <span className="pokemon-weight">
                       {pokemon.weight / 10} kg
                     </span>
